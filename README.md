@@ -1,7 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%F0%9F%91%8B%20Hello%2C%20my%20name%20is%20Qikai%F0%9F%A5%B3&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-
+<h1 align="center"> 👋 Hello, my name is Qikai <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E4EF7&background=624FFF00&center=true&vCenter=true&random=true&width=435&lines=I+am+a+cloud+engineer+enthusiast!+;I+am+a+AI+enthusiast!+;I+am+a+software+engineer+enthusiast!" alt="Typing introduction" />
+</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=MityaChang">
+    <img src="https://komarev.com/ghpvc/?username=MityaChang&label=Profile%20views&color=00FFFF&style=flat-square" alt="MityaChang's profile views" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
@@ -106,6 +110,9 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
+
+## 💬 Quote
+> 💡Build with purpose, learn with curiosity, and improve through practice.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
