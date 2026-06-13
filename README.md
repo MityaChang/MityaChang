@@ -1,5 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Qikai</h1>
-<h3 align="center">I am a AI enthusiast!</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%F0%9F%91%8B%20Hello%2C%20my%20name%20is%20Qikai%F0%9F%A5%B3&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E4EF7&background=624FFF00&center=true&vCenter=true&random=true&width=435&lines=I+am+a+cloud+engineer+enthusiast!+;I+am+a+AI+enthusiast!+;I+am+a+software+engineer+enthusiast!" alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=MityaChang">
@@ -37,16 +40,10 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/MityaChang">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MityaChang&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="MityaChang's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=MityaChang&theme=dracula&hide_border=true&cache_seconds=86400" alt="MityaChang's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=MityaChang&theme=nightowl&hide_border=true&cache_seconds=86400" alt="MityaChang's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=MityaChang&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Qikai's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MityaChang&theme=dracula&radius=10" alt="MityaChang's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MityaChang&theme=nightowl&radius=10" alt="MityaChang's Activity Graph" />
 </p>
 
 
@@ -102,7 +99,7 @@
 
 <p align="center">
   <a href="https://github.com/MityaChang">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MityaChang&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MityaChang&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -115,9 +112,6 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
-
-## 💬 Quote
-> 💡Build with purpose, learn with curiosity, and improve through practice.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
