@@ -2,9 +2,12 @@ name: generate-snake
 
 on:
   schedule:
-    # 每 6 小时，执行一次
+    # Runs every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-snake:
