@@ -115,9 +115,9 @@
 > 💡Build with purpose, learn with curiosity, and improve through practice.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MityaChang/MityaChang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MityaChang/MityaChang/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/MityaChang/MityaChang/output/github-snake.gif?raw=true" />
 </picture>
 
 <div align="center">
